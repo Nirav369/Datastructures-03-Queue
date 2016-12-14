@@ -1,4 +1,4 @@
-# bank-Queue-management
+# Bank-Queue-management
 Assume we have a very small bank which has only two teller lines to service customers. Customers wait in one line (queue) as they enter the bank and then are called to the next available teller.
 Each teller window is a queue of ONE person (tellerone queue and tellertwo queue). The queue to get waited on (main teller queue) holds six people and there is a second queue of six people outside the door (outside queue) waiting to get into the teller queue.
 Each queue is a queue of CHARACTER..use a one character id for each person..the id can be a letter, digit or punctuation mark.
